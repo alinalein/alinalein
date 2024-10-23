@@ -39,7 +39,6 @@ Looking forward to collaborating on innovative projects and exploring new techno
   <img src="https://img.shields.io/badge/MongoDB-brightgreen?logo=mongodb&logoColor=white" alt="MongoDB Badge" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
   <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/Docker-lightblue?logo=docker&logoColor=white" alt="Docker Badge" />
   <img src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white" alt="npm Badge" />
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub Badge" />
   <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
@@ -51,8 +50,7 @@ Looking forward to collaborating on innovative projects and exploring new techno
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://workwithbobby.today)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com)
-[![Bobby.inBerlin](https://img.shields.io/badge/Bobby-inBerlin-pink?style=for-the-badge)](https://bobbyinberlin)
+
 
 ---
 
