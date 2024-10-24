@@ -12,6 +12,8 @@
 
 # Hello, Welcome to my GitHub Repositories 👋
 
+---
+
 I am a freshly certified full-stack developer living all over the world but mostly in Berlin.💚
 My coding journey is fueled by a passion for creating user-friendly experiences, and I enjoy being involved in every aspect of building an interactive app from scratch.🔅
 
@@ -23,7 +25,7 @@ Here’s a quick look at how to reach me and what’s been keeping me excited la
 
 Eager to team up on cutting-edge projects and dive into the latest technologies!👯
 
-----
+---
 
 ### Languages & Tools: 🛠️
 
@@ -42,7 +44,7 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
 <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript Badge" />
 </p>
 
-----
+---
 
 ### Stats: ☝️
 
