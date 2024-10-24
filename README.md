@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**alinalein/alinalein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,18 +8,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
-# Hi there! Welcome to my GitHub Repositories 👋
+# Hello, Welcome to my GitHub Repositories 👋
 
-I am a freshly certified full-stack developer in the vibrant heart 🖤 of Berlin. My journey in coding is fueled by a fascination with crafting user-centric 🍇 experiences and mastering all its aspects, from front to back.
+I am a freshly certified full-stack developer living all over the world but mostly in Berlin.💚
+My coding journey is fueled by a passion for creating user-friendly experiences, and I enjoy being involved in every aspect of building an interactive app from scratch.🔅
 
-Here's a little about what I'm up to and how you can get in touch:
+Here’s a quick look at how to reach me and what’s been keeping me excited lately:
 
-- 🌱 **Currently Learning:** I’m diving deep into API microservices to enhance my development skills for the ecommerce industry
-- 🎵 **Interests:** I enjoy curating playlists on [Spotify](https://www.spotify.com). Music is my go-to source for creativity and energy.
-- 💬 **How to Reach Me:** Connect with me on [LinkedIn](https://linkedin.com) or visit my [Website](https://workwithbobby.today) to learn more.
+- 🌱 **Currently Learning:** I’m working with Node.js, API development, and React to improve my skills and advance in the SaaS/FaaS/Fintech industry.
+- 🎵 **Interests:**I love exploring new places and challenging myself with activities I haven't tried yet, like skydiving and scuba diving. It's this same curiosity and drive that I bring to my coding projects.
+- 📫 **Get in Touch:** Connect with me on [LinkedIn](https://www.linkedin.com/in/alina-leinweber/) or visit my [Website](https://alinalein.github.io/portfolio_beta/) to learn more.
 
-Looking forward to collaborating on innovative projects and exploring new technologies!
+Eager to team up on cutting-edge projects and dive into the latest technologies!👯
 
 ---
 
@@ -35,22 +32,15 @@ Looking forward to collaborating on innovative projects and exploring new techno
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/Express.js-gray?logo=express&logoColor=white" alt="Express Badge" />
+  <img src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white" alt="Angular Badge" />
   <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" alt="Node.js Badge" />
   <img src="https://img.shields.io/badge/MongoDB-brightgreen?logo=mongodb&logoColor=white" alt="MongoDB Badge" />
   <img src="https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
   <img src="https://img.shields.io/badge/AWS-orange?logo=amazonaws&logoColor=white" alt="AWS Badge" />
   <img src="https://img.shields.io/badge/npm-red?logo=npm&logoColor=white" alt="npm Badge" />
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub Badge" />
-  <img src="https://img.shields.io/badge/VS%20Code-blue?logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
+<img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript Badge" />
 </p>
-
----
-
-### Connect with Me: 👍
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://workwithbobby.today)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-
 
 ---
 
