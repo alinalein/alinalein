@@ -23,7 +23,7 @@ Here’s a quick look at how to reach me and what’s been keeping me excited la
 
 Eager to team up on cutting-edge projects and dive into the latest technologies!👯
 
---
+----
 
 ### Languages & Tools: 🛠️
 
@@ -42,7 +42,7 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
 <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript Badge" />
 </p>
 
---
+----
 
 ### Stats: ☝️
 
