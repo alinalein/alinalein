@@ -17,15 +17,21 @@ I am a freshly certified full-stack developer living all over the world but most
 
 My coding journey is fueled by a passion for creating user-friendly experiences, and I enjoy being involved in every aspect of building an interactive app from scratch.🔅
 
+&nbsp;
 
 Here’s a quick look at how to reach me and what’s been keeping me excited lately:
 
 - 🌱 **Currently Learning:** I’m working with Node.js, API development, and React to improve my skills and advance in the SaaS/FaaS/Fintech industry.
+  
 - 🎵 **Interests:** I love exploring new places and challenging myself with activities I haven't tried yet, like skydiving and scuba diving. It's this same curiosity and drive that I bring to my coding projects.
+  
 - 📫 **Get in Touch:** Connect with me on [LinkedIn](https://www.linkedin.com/in/alina-leinweber/) or visit my [Website](https://alinalein.github.io/portfolio_beta/) to learn more.
+
+  &nbsp;
 
 Eager to team up on cutting-edge projects and dive into the latest technologies!👯
 
+&nbsp;
 
 ### Languages & Tools: 🛠️
 
