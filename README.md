@@ -44,7 +44,7 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
     <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Express.svg" alt="Express" height="40"/>
           <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Postman.svg" alt="Postman"  height="40"/>
  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Cucumber.svg" alt="Cucumber" height="40"/>
-    <img src=" https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Jest.svg" alt="Jest"  height="40"/>
+    <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Jest.svg" alt="Jest"  height="40"/>
    <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Firebase.svg" alt="Firebase" height="40"/>
 <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/AWS.svg" alt="AWS"  height="40"/>
     <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/MongoDB.svg" alt="MongoBD"  height="40"/>
