@@ -34,7 +34,6 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
     <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/MongoDB.svg" alt="MongoDB" style="height: 45px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Sql.svg" alt="SQL" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Bootstrap.svg" alt="Bootstrap" style="height: 40px; margin-right: 20px;"/>
-  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/CSS.svg" alt="CSS" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/sass-1.svg" alt="SASS" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/HTML5.svg" alt="HTML" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/JavaScript.svg" alt="JavaScript" style="height: 40px; margin-right: 20px;"/>
