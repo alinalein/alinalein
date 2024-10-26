@@ -30,8 +30,8 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
 ### Languages & Tools: 🛠️
 
 <p>
-  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Bootstrap.svg" alt="Bootstrap"  height="40"/>
-  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/CSS.svg" alt="CSS"  height="40"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Bootstrap.svg" alt="Bootstrap"  height="40" style="margin-right: 5px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/CSS.svg" alt="CSS"  height="40" style="margin-right: 10px;"/>
     <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/sass-1.svg" alt="SASS"  height="40"/>
    <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/HTML5.svg" alt="HTML"  height="40"/>
    <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/JavaScript.svg" alt="JavaScript"  height="40"/>
