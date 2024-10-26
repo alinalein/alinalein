@@ -29,26 +29,27 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
 
 ### Languages & Tools: 🛠️
 
-<p>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Bootstrap.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/CSS.svg" alt="CSS" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/sass-1.svg" alt="SASS" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/HTML5.svg" alt="HTML" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/JavaScript.svg" alt="JavaScript" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/React.svg" alt="React" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Redux.svg" alt="Redux" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/ReactNative.svg" alt="ReactNative" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Angular.svg" alt="Angular" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Typescript.svg" alt="Typescript" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Node_js.svg" alt="Node" width="40" height="40" style="margin-right: 20px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Express.svg" alt="Express" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Postman.svg" alt="Postman" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Cucumber.svg" alt="Cucumber" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Jest.svg" alt="Jest" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Firebase.svg" alt="Firebase" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/AWS.svg" alt="AWS" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/MongoDB.svg" alt="MongoBD" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Sql.svg" alt="SQL" width="40" height="40" style="margin-right: 15px; vertical-align: middle;"/>
+<p style="margin: 0; line-height: 1; display: flex; align-items: center;"> 
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/MongoDB.svg" alt="MongoDB" style="height: 45px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Sql.svg" alt="SQL" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Bootstrap.svg" alt="Bootstrap" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/CSS.svg" alt="CSS" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/sass-1.svg" alt="SASS" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/HTML5.svg" alt="HTML" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/JavaScript.svg" alt="JavaScript" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/React.svg" alt="React" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Redux.svg" alt="Redux" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/ReactNative.svg" alt="ReactNative" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Angular.svg" alt="Angular" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Typescript.svg" alt="Typescript" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Node_js.svg" alt="Node" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Express.svg" alt="Express" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Postman.svg" alt="Postman" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Cucumber.svg" alt="Cucumber" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Jest.svg" alt="Jest" style="height: 40px;"/>
+  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/AWS.svg" alt="AWS" style="height: 45px;"/>
+    <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Firebase.svg" alt="Firebase" style="height: 33px;"/>
 </p>
+
 
 
