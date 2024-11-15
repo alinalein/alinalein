@@ -9,11 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/user-attachments/assets/73e6801f-fe08-4aea-adf2-de6515371feb" style="width: 100%; height: 30px; object-fit: cover;" alt="Responsive Image">
 
-## Hello, Welcome to my GitHub Repositories 👋
+## Hello, Welcome to my GitHub 👋
 
 
-I am a freshly certified full-stack developer living all over the world but mostly in Berlin.💚
+I am a freshly certified full-stack developer living all over the world but mostly in Berlin.🖤
 
 My coding journey is fueled by a passion for creating user-friendly experiences, and I enjoy being involved in every aspect of building an interactive app from scratch.🔅
 
@@ -55,7 +56,7 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Firebase.svg" alt="Firebase" style="height: 30px; margin-right: 20px;"/>
 </p>
 
-
+<img src="https://github.com/user-attachments/assets/73e6801f-fe08-4aea-adf2-de6515371feb" style="width: 100%; height: 30px; object-fit: cover;" alt="Responsive Image">
 
 
 
