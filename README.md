@@ -9,11 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/user-attachments/assets/73e6801f-fe08-4aea-adf2-de6515371feb" style="width: 100%; height: 30px; object-fit: cover;" alt="Responsive Image">
 
-## Hello, Welcome to my GitHub Repositories 👋
+## Hello, Welcome to my GitHub 👋
 
 
-I am a freshly certified full-stack developer living all over the world but mostly in Berlin.💚
+I am a freshly certified full-stack developer living all over the world but mostly in Berlin.🖤
 
 My coding journey is fueled by a passion for creating user-friendly experiences, and I enjoy being involved in every aspect of building an interactive app from scratch.🔅
 
@@ -21,11 +22,15 @@ My coding journey is fueled by a passion for creating user-friendly experiences,
 Here’s a quick look at how to reach me and what’s been keeping me excited lately:
 
 - 🌱 **Currently Learning:** I’m working with Node.js, API development, and React to improve my skills and advance in the SaaS/FaaS/Fintech industry.
+  
 - 🎵 **Interests:** I love exploring new places and challenging myself with activities I haven't tried yet, like skydiving and scuba diving. It's this same curiosity and drive that I bring to my coding projects.
+  
 - 📫 **Get in Touch:** Connect with me on [LinkedIn](https://www.linkedin.com/in/alina-leinweber/) or visit my [Website](https://alinalein.github.io/portfolio_beta/) to learn more.
+
 
 Eager to team up on cutting-edge projects and dive into the latest technologies!👯
 
+&nbsp;
 
 ### Languages & Tools: 🛠️
 
@@ -34,7 +39,6 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
     <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/MongoDB.svg" alt="MongoDB" style="height: 45px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Sql.svg" alt="SQL" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Bootstrap.svg" alt="Bootstrap" style="height: 40px; margin-right: 20px;"/>
-  <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/CSS.svg" alt="CSS" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/sass-1.svg" alt="SASS" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/HTML5.svg" alt="HTML" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/JavaScript.svg" alt="JavaScript" style="height: 40px; margin-right: 20px;"/>
@@ -52,7 +56,7 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Firebase.svg" alt="Firebase" style="height: 30px; margin-right: 20px;"/>
 </p>
 
-
+<img src="https://github.com/user-attachments/assets/73e6801f-fe08-4aea-adf2-de6515371feb" style="width: 100%; height: 30px; object-fit: cover;" alt="Responsive Image">
 
 
 
