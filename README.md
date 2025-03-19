@@ -47,6 +47,7 @@ Eager to team up on cutting-edge projects and dive into the latest technologies!
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/ReactNative.svg" alt="ReactNative" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Angular.svg" alt="Angular" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Typescript.svg" alt="Typescript" style="height: 40px; margin-right: 20px;"/>
+    <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Vue.svg" alt="Vue" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Node_js.svg" alt="Node" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Express.svg" alt="Express" style="height: 40px; margin-right: 20px;"/>
   <img src="https://raw.githubusercontent.com/alinalein/alinalein/refs/heads/main/svgs/Postman.svg" alt="Postman" style="height: 40px; margin-right: 20px;"/>
